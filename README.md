@@ -1,6 +1,6 @@
 # Trading Alerts Platform
 
-AWS platform infrastructure for the Trading Alerts application. This repository owns the EKS cluster, its network, and the ECR repositories used by the application. It does not own application source or app-specific Kubernetes manifests. Application code and kubernetes manifests are stored in the separat `market-alerts-application` repository.
+AWS platform infrastructure for the Trading Alerts application. This repository owns the EKS cluster, its network, and the ECR repositories used by the application. It does not own application source or app-specific Kubernetes manifests. Application code and kubernetes manifests are stored in the separat `market-alerts-kubernetes` repository.
 
 ## Ownership and delivery boundaries
 
